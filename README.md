@@ -1,2 +1,8 @@
-# Html5-hackbar
-Hack Menu for use on HackedArcadeGames.com
+# HTML5 Hackbar
+Hack Menu for use only on HackedArcadeGames or sites permitted by me.
+
+
+# About
+
+
+# Updates

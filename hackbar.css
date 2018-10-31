@@ -4,9 +4,10 @@
   min-width: 255px;
   min-height: 60px;
   text-align: center;
+  border: 1px solid rgba(255, 255, 255, 0.6);
   background-color: #4ea1e0;
-  border-bottom-right-radius: 10px;
-  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -17,8 +18,8 @@
 	font-family:Arial;
 	font-size:10px;
   line-height: 20px;
-  border-bottom-right-radius: 10px;
-  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
   background-color: #2e85c2;
 }
 
@@ -74,3 +75,4 @@
 	position:relative;
 	top:1px;
 }
+

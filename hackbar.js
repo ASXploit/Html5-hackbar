@@ -1,3 +1,5 @@
+window.onload = function () {
+    
 class Button {
   constructor(Text, Key, Callback, Interval) {
     try {
@@ -21,4 +23,27 @@ class Button {
         // Buttons code here.
       }
   }
+  
+  appendTo($_0) {
+     // Target The Menu
+      let $_1 = document.getElementById($_0);
+     // Create Button Element
+      let $_2 = document.createElement("a");
+      
+      // Setting Button Attributes
+      $_2.setAttribute("class", "menu-btn");
+      $_2.textContent = this.btntxt;
+      
+      $_1.appendChild($_2);
+  }
+}
+
+
+let t_health = new Button("Healthy", 49, () => {
+    
+}, 0);
+
+
+t_health.appendTo("btn-ctr");
+
 }

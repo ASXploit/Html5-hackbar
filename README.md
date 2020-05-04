@@ -9,3 +9,4 @@ Hack Menu for use only on HackedArcadeGames or sites permitted by me.
 # Updates
  - Created ES6 Class Base for Creating Buttons / 10-31-18
  - Created Alpha Design of Visual Hackbar / 10-31-18
+ - Updated Button Class , Dynamic Button Creation Now Added / 5-4-2020
